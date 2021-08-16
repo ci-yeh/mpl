@@ -1,2 +1,2 @@
 # meta-pseudo-labels
-**List append in tf.function need to be modified**
+**所有計算改成一個迴圈內**
